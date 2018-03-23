@@ -1,0 +1,5 @@
+Q: Do you think a decision tree will work for the politician dataset? What about for the education dataset?
+
+A: A decision tree will work for the politician dataset. First of all, the instances in politician dataset are represented by attribute-value pairs so it is possible to express the data in a disjunctive form. Second, the target for the problem is to predict whether a politician is a member of the Democrat or Republican party, so the target function has discrete output values.
+
+A decision tree will also work for the education dataset. The instances are also represented by attribute-value pairs and the target function has discrete output values, which is A and not A.

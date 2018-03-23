@@ -1,0 +1,1 @@
+After running the decisionTree.py, it shows that the error rate of training data and test data for politician data set are respectively 0.141 and 0.157, while the error rate of training data and test data for education data set are 0.195 and 0.23. The decision tree for the politician dataset is more accurate on both the training data and the testing data.

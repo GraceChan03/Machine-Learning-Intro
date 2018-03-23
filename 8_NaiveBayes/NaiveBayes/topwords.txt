@@ -1,0 +1,1 @@
+There is no difference between the two lists. Nearly or actually all the words in the two lists overlap. In general, the words in the two lists are stop words.

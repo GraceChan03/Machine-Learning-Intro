@@ -1,0 +1,3 @@
+Q: Inspect the training data manually; look for any unusual findings and think about which vari- ables seem useful.
+
+A: Final exam is useful for predicting whether a student gets A or not. Other attributes are not directly related to grade.

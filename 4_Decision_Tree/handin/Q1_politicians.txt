@@ -1,0 +1,3 @@
+Q: Inspect the training data manually; look for any unusual findings and think about which vari- ables seem useful.
+
+A: By observing the training data manually, I find that Superfund right to use is the most useful varible attribute to classify which party the politician is from. Most of the politicians do not support superfund right to use are democrats. Duty free exports is also useful.

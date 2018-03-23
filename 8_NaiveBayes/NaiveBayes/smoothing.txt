@@ -1,0 +1,1 @@
+With q = 0, 0.1, 0.5, 1, 5, only q = 0.1 improves the classifier. After trying several times, q from (0, 0.5) improve the classifier. And the improvement is significant when q is smaller than 0.1.

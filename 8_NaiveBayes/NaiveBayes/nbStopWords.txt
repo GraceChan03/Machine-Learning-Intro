@@ -1,0 +1,1 @@
+Values larger than 25 improve the classifier. But after the value is larger than 40, it does not improve the classifier any more.

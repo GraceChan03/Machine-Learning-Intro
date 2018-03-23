@@ -1,0 +1,13 @@
+• Did you receive any help whatsoever from anyone in solving this assignment?(Yes/No).
+No.
+
+• Did you give any help whatsoever to anyone in solving this assignment? (Yes / No).
+No.
+
+• Did you find or come across code that implements any part of this assignment? (Yes / No) 
+Yes.
+Machine Learning - Tom Mitchell - Page 183
+URL: https://stackoverflow.com/questions/20950650/how-to-sort-counter-by-value-python
+	 https://stackoverflow.com/questions/7154312/how-do-i-remove-entries-within-a-counter-object-with-a-loop-without-invoking-a-r
+	 https://stackoverflow.com/questions/7971618/python-return-first-n-keyvalue-pairs-from-dict
+	 https://stackoverflow.com/questions/1217251/python-sorting-a-dictionary-of-lists

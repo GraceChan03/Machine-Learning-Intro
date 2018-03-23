@@ -1,0 +1,1 @@
+The words in both lists are not function words but real words. There is no overlapping between the two lists. In top-words, all the words I found was function words, all of which do not have practical significance. But in log-odds top words lists, all the words are meaningful words and could be used to differeciate the two groups.

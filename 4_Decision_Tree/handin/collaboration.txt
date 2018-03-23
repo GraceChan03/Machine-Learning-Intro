@@ -1,0 +1,11 @@
+• Did you receive any help whatsoever from anyone in solving this assignment?(Yes/No).
+No.
+
+• Did you give any help whatsoever to anyone in solving this assignment? (Yes / No).
+No.
+
+• Did you find or come across code that implements any part of this assignment? (Yes / No) 
+Yes.
+Machine Learning - Tom Mitchell - Page 56
+URL: https://stackoverflow.com/questions/12330522/reading-a-file-without-newlines
+	 https://docs.python.org/2/library/math.html

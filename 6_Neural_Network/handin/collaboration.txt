@@ -1,0 +1,11 @@
+• Did you receive any help whatsoever from anyone in solving this assignment?(Yes/No).
+Yes. Xiaoxiao Lu explained to me what termination condition of back propagation could be.
+
+• Did you give any help whatsoever to anyone in solving this assignment? (Yes / No).
+No.
+
+• Did you find or come across code that implements any part of this assignment? (Yes / No) 
+Yes.
+Machine Learning - Tom Mitchell - Page 98
+URL: https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.random.shuffle.html
+	 https://zhuanlan.zhihu.com/p/24309547
